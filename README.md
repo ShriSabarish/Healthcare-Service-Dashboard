@@ -7,6 +7,6 @@ Healthcare-Service-Dashboard/
 │   └── Inpatient and Outpatient.png
 │
 ├── PowerBI File/
-│   └── Inpatient and Outpatient.pbix
+│   └── Inpatient&Outpatient.pbix
 │
 ├── README.md  
